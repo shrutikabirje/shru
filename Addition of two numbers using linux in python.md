@@ -1,4 +1,4 @@
-# Printsum of two numbers in linux using python
+# Print sum of two numbers in linux using python
 
 ```
 n1=int(input("enter a no"))
