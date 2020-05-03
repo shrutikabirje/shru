@@ -7,6 +7,7 @@ v=n1+n2
 print("sum of 2 numbers is:",v)
 
 ```
+For opening python interpreter in linux command is python3.
 
 * n1 and n2 are user defined inputs.
 * v is used to store the result.
